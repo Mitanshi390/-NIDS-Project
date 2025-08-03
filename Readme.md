@@ -29,6 +29,7 @@ The model is trained and evaluated on the publicly available dataset from Kaggle
 
 ## 🖼️ Project Structure
 📁 Network-Intrusion-Detection
+
 ├── 📊 Project_Presentation.pptx
 
 ├── 📁 Screenshots step-by-step
