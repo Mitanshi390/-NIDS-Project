@@ -28,9 +28,11 @@ The model is trained and evaluated on the publicly available dataset from Kaggle
 - **PowerPoint**: For project presentation (`NIDS_Project_Presentation.pptx`)
 
 ## 🖼️ Project Structure
-📁 Network-Intrusion-Detection/
+📁 Network-Intrusion-Detection
 ├── 📊 Project_Presentation.pptx
+
 ├── 📁 Screenshots step-by-step
+
 ├── 📁 dataset 
 
 ## ✅ Outcomes
